@@ -1,6 +1,6 @@
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gomah/bluise)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/fancradle/agency)
 
-# Bluise - A Nuxt.js & Netlify CMS boilerplate.
+# Email studentjobs@fancradle.com any questions - A Nuxt.js & Netlify CMS boilerplate.
 
 I wanted to explore Netlify CMS & Tailwind CSS, ended up creating this boilerplate.
 
